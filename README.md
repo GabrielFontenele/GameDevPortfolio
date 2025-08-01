@@ -2,6 +2,8 @@
 
 My personal game development portfolio showcasing my projects, experiences, and technical skills in game development.
 
+**🌐 Live Demo:** [https://gabrielfontenele.github.io/GameDevPortfolio/](https://gabrielfontenele.github.io/GameDevPortfolio/)
+
 ## 🎮 About
 
 This is my game development portfolio built with modern web technologies. It serves as a platform to showcase my game projects, development blog posts, and professional experience in the gaming industry.
